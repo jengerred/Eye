@@ -1,6 +1,6 @@
-# Eye
+# Eyes
 ## Description:
-This project was an assignment for the MIT XPRO course. We were given some files and code to work with and were instructed to add animation to get the eye to follow the cursor.
+This project was an assignment for the MIT XPRO course. We were given some files and code to work with and were instructed to add animation to get the eye to follow the cursor and then add a second eye.
 ## How to Run:  
 Simply open the page and move your cursor to have the eye follow.
 ## Roadmap of future improvements:: 
